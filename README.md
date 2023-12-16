@@ -1,9 +1,7 @@
 ### Hi there 👋
-I'm sleeping
-I'm sleeping
-I'm sleeping
+I'am Mo 
 # 💫 About Me:
-I'm sleeping<br>I'm sleeping<br>I'm sleeping<br>I'm sleeping<br>I'm sleeping
+I'am Mo 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chattarin052545&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
